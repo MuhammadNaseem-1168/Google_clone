@@ -1,6 +1,6 @@
 Google Clone
 
-A simple Google search clone built with HTML, CSS, and JavaScript.
+A simple Google search clone built with HTML And Tailwindcss.
 
 Features
 
